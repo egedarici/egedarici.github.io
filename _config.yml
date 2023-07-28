@@ -1,13 +1,15 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Ege Darici # your name (or website title) here
+logo: "/images/_DSF8521.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Ambitious 21 year old full-stack software developer. 5+ years of experience in programming websites, and apps. Commited to engineering state-of-the-art software and adept in collaboration and communication. Perfectionistic, yet realistic and optimistic. 
   <br><br>
-  Second description 
+ • Independent learner & effective problem solver.
+• Organized, yet flexible & adaptive.
+• Fluent English & Turkish
+• Comfortable with wide tech stack: Java, Python, C#, SQL, Haskell, HTML, CSS, JS
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/egedarici/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
