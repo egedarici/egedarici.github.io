@@ -2,6 +2,7 @@ title: Ege Darici # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Ambitious 21-year-old full-stack software developer.
+  <br> <br>
   <a href="https://www.linkedin.com/in/egedarici/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
