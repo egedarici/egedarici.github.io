@@ -1,13 +1,7 @@
 title: Ege Darici # your name (or website title) here
-logo: "/images/_DSF8521.jpg" # your photo (or logo) here
+logo: "/images/_DSF8521.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Ambitious 21 year old full-stack software developer. 5+ years of experience in programming websites, and apps. Commited to engineering state-of-the-art software and adept in collaboration and communication. Perfectionistic, yet realistic and optimistic. 
-  <br><br>
- • Independent learner & effective problem solver.
-• Organized, yet flexible & adaptive.
-• Fluent English & Turkish
-• Comfortable with wide tech stack: Java, Python, C#, SQL, Haskell, HTML, CSS, JS
-  <br><br>
+  Ambitious 21-year-old full-stack software developer.
   <a href="https://www.linkedin.com/in/egedarici/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
