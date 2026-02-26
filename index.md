@@ -16,7 +16,7 @@ Next.js / React / Vercel
 ---
 ## Projects 
 
-## [Analysis of Video Quality Assessment methods](/images/Copy of Analyzing Video Quality Assessment Methods' Performance on Animation Videos.pdf)
+## [Analysis of Video Quality Assessment methods](images/Copy%20of%20Analyzing%20Video%20Quality%20Assessment%20Methods'%20Performance%20on%20Animation%20Videos.pdf)
 
 For my research project, I analyzed the content-oriented VQA methods on computer graphics (CG) videos and compared their performance to the traditionally used VQA methods. In conclusion, content-oriented VQA methods better align with human perception of video quality than traditional VQA methods. Refer to the link for more.
 <img src="images/branches-4.png"/>
