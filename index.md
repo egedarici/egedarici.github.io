@@ -1,6 +1,19 @@
 ## Portfolio
 
 ---
+## Products/Websites
+
+## [Arya AI Commercial website](https://new.arya-ai.com/)
+Handled full-cycle design and deployment; optimized for SEO and 3D rendering.
+Next.js / React3F / Vercel / NeonDB / GSAP / Lenis / Blender / Figma
+<img src="images/arya.png"/>
+
+## [Yorka Global SPA WIP 🏗️](https://yorka-global.vercel.app/)
+A commodity trading platform for buyers/seller to keep track of their orders
+Next.js / React / Vercel 
+<img src="images/yorka.png"/>
+
+---
 ## Projects 
 
 ## [Analysis of Video Quality Assessment methods](/images/Copy of Analyzing Video Quality Assessment Methods' Performance on Animation Videos.pdf)
